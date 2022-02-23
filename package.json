@@ -1,13 +1,13 @@
 {
   "name": "onlineapp",
   "version": "1.0.0",
-  "description": "this is simple web app ",
+  "description": "this is business application for contoso",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Ravi Tambade",
+  "author": "219102_mane ashish hanmant",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1"
